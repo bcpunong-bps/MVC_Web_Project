@@ -1,4 +1,6 @@
-﻿@{
+﻿<!DOCTYPE html>
+
+@{
     ViewBag.Title = "Home Page";
 }
 
@@ -10,23 +12,19 @@
     table {
         border-spacing: 80px;
         text-align: center;
-        
     }
 
     tbody {
-      
     }
 
     th {
         text-align: center;
         width: 400px;
-      
     }
 
     td {
         text-align: center;
         width: 400px;
-      
     }
 </style>
 
@@ -53,42 +51,43 @@
                     <tbody>
 
                         <tr>
-                            <td>001</td>
+                            @* String Name/Text, ActionName, ControllerName *@
+                            <td>@Html.ActionLink("001", "Link_001", "Links") </td>
                             <td>12/31/2019</td>
                             <td>Freddie Mercury Queen</td>
                             <td>77</td>
                         </tr>
 
                         <tr>
-                            <td>002</td>
+                            <td>@Html.ActionLink("002","Link_002","Links")</td>
                             <td>12/12/2021</td>
                             <td>Friedrick Nietzsche</td>
                             <td>99</td>
                         </tr>
 
-                        <tr class="clickable-row">
+                        <tr>
 
-                            <td> 003</td>
+                            <td>@Html.ActionLink("003", "Link_003", "Links")</td>
                             <td>01/25/2022</td>
                             <td> Josep Joestar</td>
                             <td> 555</td>
 
                         </tr>
                         <tr>
-                            <td>004</td>
+                            <td>@Html.ActionLink("004", "Link_004","Links")</td>
                             <td>03/05/2022</td>
                             <td>Kurt Cobain</td>
                             <td>456</td>
                         </tr>
                         <tr>
-                            <td>005</td>
+                            <td>@Html.ActionLink("005", "Link_005", "Links")</td>
                             <td>05/28/2022</td>
                             <td>Jimmy Page</td>
                             <td>250</td>
                         </tr>
 
                         <tr>
-                            <td>006</td>
+                            <td>@Html.ActionLink("006", "Link_006", "Links")</td>
                             <td>04/12/2022</td>
                             <td>Gaius Julius Cesaer</td>
                             <td>250</td>
@@ -106,6 +105,7 @@
 </div>
 
 
+</html>
 
 
 @*<div class="row">
