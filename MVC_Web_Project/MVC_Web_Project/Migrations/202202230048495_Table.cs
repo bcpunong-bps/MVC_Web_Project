@@ -3,7 +3,7 @@
     using System;
     using System.Data.Entity.Migrations;
     
-    public partial class bp : DbMigration
+    public partial class Table : DbMigration
     {
         public override void Up()
         {
@@ -11,26 +11,26 @@
                 "dbo.Customer",
                 c => new
                     {
-                        CustomerID = c.Int(nullable: false, identity: true),
-                        CustomerName = c.String(),
+                        CustID = c.Int(nullable: false, identity: true),
+                        CustName = c.String(maxLength: 64),
                     })
-                .PrimaryKey(t => t.CustomerID);
+                .PrimaryKey(t => t.CustID);
             
             CreateTable(
-                "dbo.Order",
+                "dbo.Orders",
                 c => new
                     {
-                        orderID = c.Int(nullable: false, identity: true),
-                        orderItmName = c.String(),
+                        orderId = c.Int(nullable: false, identity: true),
+                        orderItemName = c.String(),
                         orderDesc = c.String(),
                     })
-                .PrimaryKey(t => t.orderID);
+                .PrimaryKey(t => t.orderId);
             
         }
         
         public override void Down()
         {
-            DropTable("dbo.Order");
+            DropTable("dbo.Orders");
             DropTable("dbo.Customer");
         }
     }

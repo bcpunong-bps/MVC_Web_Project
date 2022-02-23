@@ -24,6 +24,17 @@ namespace MVC_Web_Project.Context
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             modelBuilder.HasDefaultSchema("dbo");
+            modelBuilder.Entity<Customer>().ToTable("Customer");
+            modelBuilder.Entity<Customer>().HasKey(c => c.CustID);
+            modelBuilder.Entity<Customer>().Property(c => c.CustID).HasDatabaseGeneratedOption(DatabaseGeneratedOption.Identity);
+            modelBuilder.Entity<Customer>().Property(c => c.CustName).HasMaxLength(64);
+
+
+            modelBuilder.Entity<Order>()
+              .ToTable("Orders");
+            modelBuilder.Entity<Order>().HasKey(o => o.orderId);
+            modelBuilder.Entity<Order>().Property(o => o.orderId).HasDatabaseGeneratedOption(DatabaseGeneratedOption.Identity);
+
         }
 
     }

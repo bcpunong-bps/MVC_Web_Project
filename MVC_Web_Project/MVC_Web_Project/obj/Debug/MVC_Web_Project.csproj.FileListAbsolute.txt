@@ -1,3 +1,4 @@
+D:\Belchristel\MVC_WEB_ACTIVITY_01\MVC_Web_Project\MVC_Web_Project\MVC_Web_Project\bin\roslyn\Microsoft.CodeAnalysis.dll
 D:\Belchristel\MVC_WEB_ACTIVITY_01\MVC_Web_Project\MVC_Web_Project\MVC_Web_Project\bin\MVC_Web_Project.dll.config
 D:\Belchristel\MVC_WEB_ACTIVITY_01\MVC_Web_Project\MVC_Web_Project\MVC_Web_Project\bin\MVC_Web_Project.dll
 D:\Belchristel\MVC_WEB_ACTIVITY_01\MVC_Web_Project\MVC_Web_Project\MVC_Web_Project\bin\MVC_Web_Project.pdb
@@ -10,7 +11,6 @@ D:\Belchristel\MVC_WEB_ACTIVITY_01\MVC_Web_Project\MVC_Web_Project\MVC_Web_Proje
 D:\Belchristel\MVC_WEB_ACTIVITY_01\MVC_Web_Project\MVC_Web_Project\MVC_Web_Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
 D:\Belchristel\MVC_WEB_ACTIVITY_01\MVC_Web_Project\MVC_Web_Project\MVC_Web_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
 D:\Belchristel\MVC_WEB_ACTIVITY_01\MVC_Web_Project\MVC_Web_Project\MVC_Web_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-D:\Belchristel\MVC_WEB_ACTIVITY_01\MVC_Web_Project\MVC_Web_Project\MVC_Web_Project\bin\roslyn\Microsoft.CodeAnalysis.dll
 D:\Belchristel\MVC_WEB_ACTIVITY_01\MVC_Web_Project\MVC_Web_Project\MVC_Web_Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
 D:\Belchristel\MVC_WEB_ACTIVITY_01\MVC_Web_Project\MVC_Web_Project\MVC_Web_Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
 D:\Belchristel\MVC_WEB_ACTIVITY_01\MVC_Web_Project\MVC_Web_Project\MVC_Web_Project\bin\roslyn\Microsoft.CSharp.Core.targets
@@ -76,7 +76,9 @@ D:\Belchristel\MVC_WEB_ACTIVITY_01\MVC_Web_Project\MVC_Web_Project\MVC_Web_Proje
 D:\Belchristel\MVC_WEB_ACTIVITY_01\MVC_Web_Project\MVC_Web_Project\MVC_Web_Project\bin\Newtonsoft.Json.xml
 D:\Belchristel\MVC_WEB_ACTIVITY_01\MVC_Web_Project\MVC_Web_Project\MVC_Web_Project\bin\Antlr3.Runtime.pdb
 D:\Belchristel\MVC_WEB_ACTIVITY_01\MVC_Web_Project\MVC_Web_Project\MVC_Web_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Belchristel\MVC_WEB_ACTIVITY_01\MVC_Web_Project\MVC_Web_Project\MVC_Web_Project\obj\Debug\MVC_Web_Project.csproj.AssemblyReference.cache
+D:\Belchristel\MVC_WEB_ACTIVITY_01\MVC_Web_Project\MVC_Web_Project\MVC_Web_Project\obj\Debug\MVC_Web_Project.Migrations.Table.resources
+D:\Belchristel\MVC_WEB_ACTIVITY_01\MVC_Web_Project\MVC_Web_Project\MVC_Web_Project\obj\Debug\MVC_Web_Project.csproj.GenerateResource.cache
 D:\Belchristel\MVC_WEB_ACTIVITY_01\MVC_Web_Project\MVC_Web_Project\MVC_Web_Project\obj\Debug\MVC_Web_Project.csproj.CoreCompileInputs.cache
 D:\Belchristel\MVC_WEB_ACTIVITY_01\MVC_Web_Project\MVC_Web_Project\MVC_Web_Project\obj\Debug\MVC_Web_Project.dll
 D:\Belchristel\MVC_WEB_ACTIVITY_01\MVC_Web_Project\MVC_Web_Project\MVC_Web_Project\obj\Debug\MVC_Web_Project.pdb
-D:\Belchristel\MVC_WEB_ACTIVITY_01\MVC_Web_Project\MVC_Web_Project\MVC_Web_Project\obj\Debug\MVC_Web_Project.csproj.AssemblyReference.cache
