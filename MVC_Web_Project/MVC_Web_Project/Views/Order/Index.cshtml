@@ -1,0 +1,64 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    table, th, td, tbody {
+        border: 2px solid black;
+    }
+
+    table {
+        border-spacing: 80px;
+        text-align: center;
+    }
+
+    tbody {
+    }
+
+    th {
+        text-align: center;
+        width: 400px;
+    }
+
+    td {
+        text-align: center;
+        width: 400px;
+    }
+</style>
+
+
+<!DOCTYPE html>
+
+
+<div class="jumbotron">
+    <H4> Order  Details </H4>
+
+
+    <label>Add ORDER </label>
+    <br>
+    <label>Order Item Name</label>
+    <input type="text" name="OrderItnName">
+    <label>Order Description</label>
+    <input type="text" name="OrderDesc">
+    <input type="submit" name="submit" value="submit">
+    @Html.ActionLink("Add Order", "Create", null, new { @class = "btn btn-success btn-md" })
+
+
+    <br>
+    <table>
+        <br>
+        <th> Order ID </th>
+        <th>Order Item Name</th>
+        <th> Order Item Name</th>
+        </br>
+
+
+    </table>
+
+
+
+</div>
+
+</html>
+
+

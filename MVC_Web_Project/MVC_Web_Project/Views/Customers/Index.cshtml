@@ -1,0 +1,33 @@
+﻿@model IEnumerable<MVC_Web_Project.Models.customerDTO>
+
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+<div class="jumbotron">
+
+    <h3>@ViewBag.Title</h3>
+    <div style="margin-left:86%; margin-bottom:30px;">
+        @*@Html.ActionLink("Add Customer", "Create", null, new { @class = "btn btn-success btn-md" })*@
+
+    </div>
+    <table style="width:100%" class="table-responsive">
+
+        <tr>
+            @*<th>ID</th>*@
+            <th>Customer Name</th>
+            @*<th>Action</th>*@
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.CustomerName</td>
+
+                @*<td> @Html.ActionLink("Edit", "Edit", new { CustomerID = item.CustomerID }, new { @class = "btn btn-primary btn-sm" })</td>*@
+            </tr>
+        }
+    </table>
+</div>

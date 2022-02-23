@@ -51,6 +51,8 @@ D:\Belchristel\MVC_WEB_ACTIVITY_01\MVC_Web_Project\MVC_Web_Project\MVC_Web_Proje
 D:\Belchristel\MVC_WEB_ACTIVITY_01\MVC_Web_Project\MVC_Web_Project\MVC_Web_Project\bin\roslyn\VBCSCompiler.exe
 D:\Belchristel\MVC_WEB_ACTIVITY_01\MVC_Web_Project\MVC_Web_Project\MVC_Web_Project\bin\roslyn\VBCSCompiler.exe.config
 D:\Belchristel\MVC_WEB_ACTIVITY_01\MVC_Web_Project\MVC_Web_Project\MVC_Web_Project\bin\Antlr3.Runtime.dll
+D:\Belchristel\MVC_WEB_ACTIVITY_01\MVC_Web_Project\MVC_Web_Project\MVC_Web_Project\bin\EntityFramework.dll
+D:\Belchristel\MVC_WEB_ACTIVITY_01\MVC_Web_Project\MVC_Web_Project\MVC_Web_Project\bin\EntityFramework.SqlServer.dll
 D:\Belchristel\MVC_WEB_ACTIVITY_01\MVC_Web_Project\MVC_Web_Project\MVC_Web_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 D:\Belchristel\MVC_WEB_ACTIVITY_01\MVC_Web_Project\MVC_Web_Project\MVC_Web_Project\bin\Microsoft.Web.Infrastructure.dll
 D:\Belchristel\MVC_WEB_ACTIVITY_01\MVC_Web_Project\MVC_Web_Project\MVC_Web_Project\bin\Newtonsoft.Json.dll
@@ -62,6 +64,8 @@ D:\Belchristel\MVC_WEB_ACTIVITY_01\MVC_Web_Project\MVC_Web_Project\MVC_Web_Proje
 D:\Belchristel\MVC_WEB_ACTIVITY_01\MVC_Web_Project\MVC_Web_Project\MVC_Web_Project\bin\System.Web.WebPages.dll
 D:\Belchristel\MVC_WEB_ACTIVITY_01\MVC_Web_Project\MVC_Web_Project\MVC_Web_Project\bin\System.Web.WebPages.Razor.dll
 D:\Belchristel\MVC_WEB_ACTIVITY_01\MVC_Web_Project\MVC_Web_Project\MVC_Web_Project\bin\WebGrease.dll
+D:\Belchristel\MVC_WEB_ACTIVITY_01\MVC_Web_Project\MVC_Web_Project\MVC_Web_Project\bin\EntityFramework.xml
+D:\Belchristel\MVC_WEB_ACTIVITY_01\MVC_Web_Project\MVC_Web_Project\MVC_Web_Project\bin\EntityFramework.SqlServer.xml
 D:\Belchristel\MVC_WEB_ACTIVITY_01\MVC_Web_Project\MVC_Web_Project\MVC_Web_Project\bin\System.Web.Helpers.xml
 D:\Belchristel\MVC_WEB_ACTIVITY_01\MVC_Web_Project\MVC_Web_Project\MVC_Web_Project\bin\System.Web.Mvc.xml
 D:\Belchristel\MVC_WEB_ACTIVITY_01\MVC_Web_Project\MVC_Web_Project\MVC_Web_Project\bin\System.Web.Optimization.xml
@@ -72,7 +76,7 @@ D:\Belchristel\MVC_WEB_ACTIVITY_01\MVC_Web_Project\MVC_Web_Project\MVC_Web_Proje
 D:\Belchristel\MVC_WEB_ACTIVITY_01\MVC_Web_Project\MVC_Web_Project\MVC_Web_Project\bin\Newtonsoft.Json.xml
 D:\Belchristel\MVC_WEB_ACTIVITY_01\MVC_Web_Project\MVC_Web_Project\MVC_Web_Project\bin\Antlr3.Runtime.pdb
 D:\Belchristel\MVC_WEB_ACTIVITY_01\MVC_Web_Project\MVC_Web_Project\MVC_Web_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\Belchristel\MVC_WEB_ACTIVITY_01\MVC_Web_Project\MVC_Web_Project\MVC_Web_Project\obj\Debug\MVC_Web_Project.csproj.AssemblyReference.cache
 D:\Belchristel\MVC_WEB_ACTIVITY_01\MVC_Web_Project\MVC_Web_Project\MVC_Web_Project\obj\Debug\MVC_Web_Project.csproj.CoreCompileInputs.cache
 D:\Belchristel\MVC_WEB_ACTIVITY_01\MVC_Web_Project\MVC_Web_Project\MVC_Web_Project\obj\Debug\MVC_Web_Project.dll
 D:\Belchristel\MVC_WEB_ACTIVITY_01\MVC_Web_Project\MVC_Web_Project\MVC_Web_Project\obj\Debug\MVC_Web_Project.pdb
+D:\Belchristel\MVC_WEB_ACTIVITY_01\MVC_Web_Project\MVC_Web_Project\MVC_Web_Project\obj\Debug\MVC_Web_Project.csproj.AssemblyReference.cache
