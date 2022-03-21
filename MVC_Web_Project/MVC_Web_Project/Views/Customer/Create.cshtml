@@ -1,0 +1,29 @@
+﻿@model MVC_Web_Project.Models.CustomerDTO
+
+
+@using (Html.BeginForm("Create", "Customer", FormMethod.Post))
+{
+    <div>
+        <label colspan="2" align="center">Customer Details</label>
+    </div>
+    <div class="form-row">
+        <div class="col-md-4">
+            @Html.LabelFor(m => m.CustName, new { @class = "control-label" })
+            <div>
+                @Html.TextBoxFor(m => m.CustName, new { @class = "form-control" })
+            </div>
+        </div>
+    </div>
+
+    <div class="form-row">
+        <div class="col-md-9"></div>
+        <div>
+            <input type="submit" value="Submit" class="btn btn-success btn-lg" />
+            <a href="/customer/" onmouseover="this.style.color='#0f0'"
+               onmouseout="this.style.color='#00f'" class="btn btn-primary btn-lg">
+                Back
+            </a>
+        </div>
+    </div>
+
+}
